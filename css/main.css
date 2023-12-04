@@ -19,4 +19,9 @@
     border: 3px solid #73AD21;
     padding: 10px;
 }
+
+.container-5 .card {
+    margin-bottom: 0;
+    border: none;
+}
         
